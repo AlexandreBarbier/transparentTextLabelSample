@@ -6,3 +6,8 @@
 #
 # Pods/
 
+*.xcuserstate
+*.xcworkspacedata
+*.xcbkptlist
+*.xcscheme
+xcschememanagement.plist
